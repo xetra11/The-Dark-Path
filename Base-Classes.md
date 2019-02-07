@@ -1,0 +1,3 @@
+* Gunslinger
+* Callarian Warrior
+* Breaker
